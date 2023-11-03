@@ -19,7 +19,6 @@
  * then add a single line comment to show what is displayed in the terminal
  */
 
-
 var classroomSupplies = ["pen", "paper", "desk", "computer"];
 classroomSupplies.sort();
 console.log(classroomSupplies)
