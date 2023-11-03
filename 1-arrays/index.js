@@ -89,7 +89,3 @@ var schedule = [
 console.table(schedule)
 var sentence = `I am taking ${rowThree[0]}, ${rowThree[1]} that is worth ${rowThree[2]} credits`
 console.log(sentence)
-
-
-
-
